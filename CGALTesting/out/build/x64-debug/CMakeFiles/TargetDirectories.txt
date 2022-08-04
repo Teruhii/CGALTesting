@@ -1,0 +1,3 @@
+D:/plsworkfolderbackup/CGALTesting/out/build/x64-debug/CMakeFiles/CGALTesting.dir
+D:/plsworkfolderbackup/CGALTesting/out/build/x64-debug/CMakeFiles/edit_cache.dir
+D:/plsworkfolderbackup/CGALTesting/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
