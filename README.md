@@ -46,7 +46,7 @@ Processes:
 - Downsampling
   - skipDownSampling
 - Outlier removal
-  - sskipOutlierRemoval
+  - skipOutlierRemoval
 - Surface Reconstruction
   - skipSurfaceReconstruction
   
