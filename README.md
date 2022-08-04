@@ -37,3 +37,18 @@ An exploration of the CGAL tools and functions
   - Copy .ply file into the built executable’s root directory
     - This should be located deeper inside the ‘Build’ folder
   - Run the executable via pressing the run ‘Current Document’ button on the top bar in the correct x64 or x86 configuration
+  
+# Processes controls
+  
+Each of the processes have a boolean that controls if the process is executed or not
+
+Processes:
+- Downsampling
+  - skipDownSampling
+- Outlier removal
+  - sskipOutlierRemoval
+- Surface Reconstruction
+  - skipSurfaceReconstruction
+  
+Drawing the mesh has two current methods, draw a SurfaceMesh type, or a Point_set. 
+Adjust the outputs of the processes to these two types in the 'Draw the mesh' section accordingly
